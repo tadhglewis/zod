@@ -578,6 +578,7 @@ There are a growing number of tools that are built atop or support Zod natively!
 - [`graphql-codegen-typescript-validation-schema`](https://github.com/Code-Hex/graphql-codegen-typescript-validation-schema): GraphQL Code Generator plugin to generate form validation schema from your GraphQL schema.
 - [`zod-prisma`](https://github.com/CarterGrimmeisen/zod-prisma): Generate Zod schemas from your Prisma schema.
 - [`Supervillain`](https://github.com/Southclaws/supervillain): Generate Zod schemas from your Go structs.
+- [`runtypes-to-zod`](https://github.com/tadhglewis/runzod): Generate TypeScript definitions from Zod schemas.
 - [`prisma-zod-generator`](https://github.com/omar-dulaimi/prisma-zod-generator): Emit Zod schemas from your Prisma schema.
 - [`drizzle-zod`](https://orm.drizzle.team/docs/zod): Emit Zod schemas from your Drizzle schema.
 - [`prisma-trpc-generator`](https://github.com/omar-dulaimi/prisma-trpc-generator): Emit fully implemented tRPC routers and their validation schemas using Zod.
